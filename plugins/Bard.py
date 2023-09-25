@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, Filters
 import requests
 
 # Set the bot API token and Bard API key
-BOT_TOKEN = 'YOUR_BOT_API_TOKEN'
+BOT_TOKEN = '6065875195:AAGkEYcpfC-N6XXtLXfS7j5uSD5yuw8Rq2I'
 BARD_API_KEY = 'YOUR_BARD_API_KEY'
 
 # Create an Updater object
