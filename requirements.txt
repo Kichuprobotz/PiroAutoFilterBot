@@ -10,3 +10,6 @@ git+https://github.com/ritheshrkrm/cinemagoer
 datetime
 pytz
 aiohttp
+telegram-bot
+google-api-python-client
+google-auth-httplib2
