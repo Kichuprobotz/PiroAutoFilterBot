@@ -234,6 +234,9 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ⏰ 𝖳𝗂𝗆𝖾 : <code>{}</code>
 🌐 𝖳𝗂𝗆𝖾𝗓𝗈𝗇𝖾 : <code>Asia/Kolkata</code>
 🛠️ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : <code>𝗏2.7.3 [ 𝖲𝗍𝖺𝖻𝗅𝖾 ]</code></b>"""
+    
+    BOT_STATS_TEXT = """<b>BOT UPTIME</b>\n{uptime}"""
+USER_REPLY_TEXT = """❌Don't send me messages directly I'm only File Share bot!"""
 
     LOGO = """
 PIRO BOTS"""
