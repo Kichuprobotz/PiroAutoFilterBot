@@ -11,3 +11,4 @@ datetime
 pytz
 aiohttp
 openai
+psutil==5.9.4
